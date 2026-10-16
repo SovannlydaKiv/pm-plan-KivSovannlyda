@@ -18,6 +18,7 @@
 | lab01/business-case.csv       | CSV with formulas calculating net annual benefit and payback |
 | lab01/process-groups.md       | mapping of process groups across 14 weeks with a Mermaid Gantt chart |
 | lab01/README.md               | this document control and change log file      |
+| lab01/post-mortem.md          | analysis of the CampusPay failure and 5 commitments |
 
 ## Inputs reused
 | Input                                   | Version / tag |
@@ -28,3 +29,4 @@
 | Date       | Version | Change                                                 |
 |------------|---------|--------------------------------------------------------|
 | 2026-09-29 | 0.1     | Lab-01: charter, stakeholders, business case, mapping added |
+| 2026-09-29 | 0.2     | Added challenge: post-mortem of CampusPay failure      |
