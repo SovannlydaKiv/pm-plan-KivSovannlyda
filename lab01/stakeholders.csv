@@ -1,0 +1,9 @@
+id,name_or_group,role,category,interest,influence,interest_level,expectation
+S01,Head of the IT department,Sponsor,sponsor,a reusable quiz tool that saves marking time and shows the department innovates,H,H,MVP demo in week 7 and a pilot with 50 students in week 14 within 200 USD cash
+S02,YOUR NAME,Project manager (supervising lecturer),pm,successful delivery of the capstone project on schedule,H,H,clear requirements from stakeholders and a working MVP by week 7
+S03,Student team (4),Developers and testers,team,learning Spring Boot and getting a high grade,M,H,clear tasks and no scope creep after week 7
+S04,Pilot students (50),End users,user,a fun and lag-free quiz experience,L,M,the platform loads quickly on their phones in week 14
+S05,Lecturers,Quiz authors,user,an easy way to create quizzes and export grades,M,H,a simple UI to author questions and export to CSV
+S06,IT operations (VPS admin),Runs gicitc.com hosting and backups,operations,no surprises at go-live; a runbook and a backup job,M,M,a deployment checklist and the docker-compose.prod.yml two weeks before the pilot
+S07,Campus network admin,Manages the proxy,operations,network security and no firewall breaches,H,L,WebSocket traffic does not cause security alerts
+S08,Data protection officer,Approves storage of student data,governance,student names and results stored safely on campus with a retention rule,H,L,a one-page data description before the pilot; can block the pilot
